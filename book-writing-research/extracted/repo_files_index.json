@@ -1,0 +1,3810 @@
+{
+  "AI-Novel-Writer": {
+    "repo": "AI-Novel-Writer",
+    "total_matching_files": 35,
+    "files": [
+      {
+        "path": "requirements.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/requirements.txt",
+        "ext": ".txt",
+        "size": 188
+      },
+      {
+        "path": "pyproject.toml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/pyproject.toml",
+        "ext": ".toml",
+        "size": 1235
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/README.md",
+        "ext": ".md",
+        "size": 11286
+      },
+      {
+        "path": "packaging/studio_entry.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/packaging/studio_entry.py",
+        "ext": ".py",
+        "size": 302
+      },
+      {
+        "path": "novel_writer/config.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/config.py",
+        "ext": ".py",
+        "size": 1928
+      },
+      {
+        "path": "novel_writer/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/__init__.py",
+        "ext": ".py",
+        "size": 275
+      },
+      {
+        "path": "novel_writer/main.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/main.py",
+        "ext": ".py",
+        "size": 9692
+      },
+      {
+        "path": "novel_writer/settings/models.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/settings/models.py",
+        "ext": ".py",
+        "size": 7555
+      },
+      {
+        "path": "novel_writer/settings/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/settings/__init__.py",
+        "ext": ".py",
+        "size": 758
+      },
+      {
+        "path": "novel_writer/settings/cli.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/settings/cli.py",
+        "ext": ".py",
+        "size": 16876
+      },
+      {
+        "path": "novel_writer/settings/manager.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/settings/manager.py",
+        "ext": ".py",
+        "size": 5880
+      },
+      {
+        "path": "novel_writer/studio/service.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/studio/service.py",
+        "ext": ".py",
+        "size": 8391
+      },
+      {
+        "path": "novel_writer/studio/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/studio/__init__.py",
+        "ext": ".py",
+        "size": 148
+      },
+      {
+        "path": "novel_writer/studio/app.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/studio/app.py",
+        "ext": ".py",
+        "size": 8364
+      },
+      {
+        "path": "novel_writer/studio/static/index.html",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/studio/static/index.html",
+        "ext": ".html",
+        "size": 62633
+      },
+      {
+        "path": "novel_writer/utils/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/utils/__init__.py",
+        "ext": ".py",
+        "size": 131
+      },
+      {
+        "path": "novel_writer/utils/context_budget.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/utils/context_budget.py",
+        "ext": ".py",
+        "size": 3674
+      },
+      {
+        "path": "novel_writer/utils/file_manager.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/utils/file_manager.py",
+        "ext": ".py",
+        "size": 6506
+      },
+      {
+        "path": "novel_writer/models/story.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/models/story.py",
+        "ext": ".py",
+        "size": 3177
+      },
+      {
+        "path": "novel_writer/models/chapter.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/models/chapter.py",
+        "ext": ".py",
+        "size": 2663
+      },
+      {
+        "path": "novel_writer/models/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/models/__init__.py",
+        "ext": ".py",
+        "size": 233
+      },
+      {
+        "path": "novel_writer/models/character.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/models/character.py",
+        "ext": ".py",
+        "size": 1600
+      },
+      {
+        "path": "novel_writer/generators/chapter_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/generators/chapter_generator.py",
+        "ext": ".py",
+        "size": 8084
+      },
+      {
+        "path": "novel_writer/generators/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/generators/__init__.py",
+        "ext": ".py",
+        "size": 438
+      },
+      {
+        "path": "novel_writer/generators/selection_editor.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/generators/selection_editor.py",
+        "ext": ".py",
+        "size": 5081
+      },
+      {
+        "path": "novel_writer/generators/character_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/generators/character_generator.py",
+        "ext": ".py",
+        "size": 3234
+      },
+      {
+        "path": "novel_writer/generators/story_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/generators/story_generator.py",
+        "ext": ".py",
+        "size": 3553
+      },
+      {
+        "path": "novel_writer/generators/base.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/novel_writer/generators/base.py",
+        "ext": ".py",
+        "size": 12608
+      },
+      {
+        "path": "tests/test_character.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/tests/test_character.py",
+        "ext": ".py",
+        "size": 1875
+      },
+      {
+        "path": "tests/test_chapter.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/tests/test_chapter.py",
+        "ext": ".py",
+        "size": 2645
+      },
+      {
+        "path": "tests/test_file_manager.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/tests/test_file_manager.py",
+        "ext": ".py",
+        "size": 3426
+      },
+      {
+        "path": "tests/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/tests/__init__.py",
+        "ext": ".py",
+        "size": 45
+      },
+      {
+        "path": "tests/test_story.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/tests/test_story.py",
+        "ext": ".py",
+        "size": 4400
+      },
+      {
+        "path": "tests/test_context_budget.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/tests/test_context_budget.py",
+        "ext": ".py",
+        "size": 1018
+      },
+      {
+        "path": "tests/test_settings.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Novel-Writer/tests/test_settings.py",
+        "ext": ".py",
+        "size": 16612
+      }
+    ]
+  },
+  "AI-Prompts-for-E-book-Generation": {
+    "repo": "AI-Prompts-for-E-book-Generation",
+    "total_matching_files": 1,
+    "files": [
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI-Prompts-for-E-book-Generation/README.md",
+        "ext": ".md",
+        "size": 6488
+      }
+    ]
+  },
+  "AI_Novel": {
+    "repo": "AI_Novel",
+    "total_matching_files": 21,
+    "files": [
+      {
+        "path": "requirements.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/requirements.txt",
+        "ext": ".txt",
+        "size": 161
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/README.md",
+        "ext": ".md",
+        "size": 9799
+      },
+      {
+        "path": "README_ZH.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/README_ZH.md",
+        "ext": ".md",
+        "size": 10638
+      },
+      {
+        "path": "main.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/main.py",
+        "ext": ".py",
+        "size": 585
+      },
+      {
+        "path": "app/config.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/config.py",
+        "ext": ".py",
+        "size": 5616
+      },
+      {
+        "path": "app/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/__init__.py",
+        "ext": ".py",
+        "size": 3159
+      },
+      {
+        "path": "app/utils.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/utils.py",
+        "ext": ".py",
+        "size": 3045
+      },
+      {
+        "path": "app/exceptions.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/exceptions.py",
+        "ext": ".py",
+        "size": 575
+      },
+      {
+        "path": "app/routes.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/routes.py",
+        "ext": ".py",
+        "size": 26773
+      },
+      {
+        "path": "app/static/js/i18n.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/static/js/i18n.js",
+        "ext": ".js",
+        "size": 11050
+      },
+      {
+        "path": "app/static/js/app.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/static/js/app.js",
+        "ext": ".js",
+        "size": 52590
+      },
+      {
+        "path": "app/prompts/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/prompts/__init__.py",
+        "ext": ".py",
+        "size": 160
+      },
+      {
+        "path": "app/prompts/templates.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/prompts/templates.py",
+        "ext": ".py",
+        "size": 11524
+      },
+      {
+        "path": "app/templates/index.html",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/templates/index.html",
+        "ext": ".html",
+        "size": 23349
+      },
+      {
+        "path": "app/templates/share.html",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/templates/share.html",
+        "ext": ".html",
+        "size": 2132
+      },
+      {
+        "path": "app/services/task.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/services/task.py",
+        "ext": ".py",
+        "size": 30831
+      },
+      {
+        "path": "app/services/events.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/services/events.py",
+        "ext": ".py",
+        "size": 2978
+      },
+      {
+        "path": "app/services/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/services/__init__.py",
+        "ext": ".py",
+        "size": 77
+      },
+      {
+        "path": "app/services/token_tracker.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/services/token_tracker.py",
+        "ext": ".py",
+        "size": 2097
+      },
+      {
+        "path": "app/services/llm.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/services/llm.py",
+        "ext": ".py",
+        "size": 5455
+      },
+      {
+        "path": "app/services/generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/AI_Novel/app/services/generator.py",
+        "ext": ".py",
+        "size": 10858
+      }
+    ]
+  },
+  "KDP-Publishing-Prompt-Library": {
+    "repo": "KDP-Publishing-Prompt-Library",
+    "total_matching_files": 8,
+    "files": [
+      {
+        "path": "kdp-book-description-prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/kdp-book-description-prompt.md",
+        "ext": ".md",
+        "size": 471
+      },
+      {
+        "path": "kdp-content-repurposing-prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/kdp-content-repurposing-prompt.md",
+        "ext": ".md",
+        "size": 388
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/README.md",
+        "ext": ".md",
+        "size": 1912
+      },
+      {
+        "path": "kdp-journal-creation-prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/kdp-journal-creation-prompt.md",
+        "ext": ".md",
+        "size": 385
+      },
+      {
+        "path": "kdp-keyword-research-prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/kdp-keyword-research-prompt.md",
+        "ext": ".md",
+        "size": 315
+      },
+      {
+        "path": "kdp-book-outline-prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/kdp-book-outline-prompt.md",
+        "ext": ".md",
+        "size": 436
+      },
+      {
+        "path": "kdp-chapter-writing-prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/kdp-chapter-writing-prompt.md",
+        "ext": ".md",
+        "size": 411
+      },
+      {
+        "path": "kdp-book-idea-generator.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/KDP-Publishing-Prompt-Library/kdp-book-idea-generator.md",
+        "ext": ".md",
+        "size": 565
+      }
+    ]
+  },
+  "LLM-book-generator": {
+    "repo": "LLM-book-generator",
+    "total_matching_files": 18,
+    "files": [
+      {
+        "path": "requirements.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/requirements.txt",
+        "ext": ".txt",
+        "size": 154
+      },
+      {
+        "path": "config.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/config.yaml",
+        "ext": ".yaml",
+        "size": 8840
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/README.md",
+        "ext": ".md",
+        "size": 2661
+      },
+      {
+        "path": "CONFIG.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/CONFIG.md",
+        "ext": ".md",
+        "size": 4391
+      },
+      {
+        "path": "main.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/main.py",
+        "ext": ".py",
+        "size": 2258
+      },
+      {
+        "path": "gui.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/gui.py",
+        "ext": ".py",
+        "size": 20380
+      },
+      {
+        "path": "tests/test_rate_limit_gemini.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/tests/test_rate_limit_gemini.py",
+        "ext": ".py",
+        "size": 2224
+      },
+      {
+        "path": "tests/test_llm_api.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/tests/test_llm_api.py",
+        "ext": ".py",
+        "size": 2802
+      },
+      {
+        "path": "book_generator/fiction_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/fiction_generator.py",
+        "ext": ".py",
+        "size": 11377
+      },
+      {
+        "path": "book_generator/config.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/config.py",
+        "ext": ".py",
+        "size": 783
+      },
+      {
+        "path": "book_generator/non_fiction_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/non_fiction_generator.py",
+        "ext": ".py",
+        "size": 9498
+      },
+      {
+        "path": "book_generator/llm_api.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/llm_api.py",
+        "ext": ".py",
+        "size": 31038
+      },
+      {
+        "path": "book_generator/constants.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/constants.py",
+        "ext": ".py",
+        "size": 412
+      },
+      {
+        "path": "book_generator/common_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/common_generator.py",
+        "ext": ".py",
+        "size": 48914
+      },
+      {
+        "path": "book_generator/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/__init__.py",
+        "ext": ".py",
+        "size": 80
+      },
+      {
+        "path": "book_generator/utils.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/utils.py",
+        "ext": ".py",
+        "size": 6816
+      },
+      {
+        "path": "book_generator/orchestrator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/orchestrator.py",
+        "ext": ".py",
+        "size": 28987
+      },
+      {
+        "path": "book_generator/docx_builder.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/LLM-book-generator/book_generator/docx_builder.py",
+        "ext": ".py",
+        "size": 80434
+      }
+    ]
+  },
+  "Prompt-Engineering-Guide": {
+    "repo": "Prompt-Engineering-Guide",
+    "total_matching_files": 0,
+    "files": []
+  },
+  "The-Novelists-Atelier": {
+    "repo": "The-Novelists-Atelier",
+    "total_matching_files": 9,
+    "files": [
+      {
+        "path": "novelist-atelier-prompts.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/novelist-atelier-prompts.md",
+        "ext": ".md",
+        "size": 84692
+      },
+      {
+        "path": "index.html",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/index.html",
+        "ext": ".html",
+        "size": 732071
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/README.md",
+        "ext": ".md",
+        "size": 5927
+      },
+      {
+        "path": "security.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/security.md",
+        "ext": ".md",
+        "size": 5378
+      },
+      {
+        "path": "Tutorial/Book.jpg",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/Tutorial/Book.jpg",
+        "ext": ".jpg",
+        "size": 101407
+      },
+      {
+        "path": "Tutorial/Prompts.jpg",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/Tutorial/Prompts.jpg",
+        "ext": ".jpg",
+        "size": 98943
+      },
+      {
+        "path": "Tutorial/Chapter.jpg",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/Tutorial/Chapter.jpg",
+        "ext": ".jpg",
+        "size": 155868
+      },
+      {
+        "path": "Tutorial/Tutorial.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/Tutorial/Tutorial.md",
+        "ext": ".md",
+        "size": 31983
+      },
+      {
+        "path": "Tutorial/Story.jpg",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/The-Novelists-Atelier/Tutorial/Story.jpg",
+        "ext": ".jpg",
+        "size": 45122
+      }
+    ]
+  },
+  "agentic-novel-outliner": {
+    "repo": "agentic-novel-outliner",
+    "total_matching_files": 21,
+    "files": [
+      {
+        "path": "index.html",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/index.html",
+        "ext": ".html",
+        "size": 14109
+      },
+      {
+        "path": "vite.config.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/vite.config.js",
+        "ext": ".js",
+        "size": 190
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/README.md",
+        "ext": ".md",
+        "size": 4525
+      },
+      {
+        "path": "package-lock.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/package-lock.json",
+        "ext": ".json",
+        "size": 34749
+      },
+      {
+        "path": "package.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/package.json",
+        "ext": ".json",
+        "size": 384
+      },
+      {
+        "path": "cli.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/cli.js",
+        "ext": ".js",
+        "size": 6637
+      },
+      {
+        "path": "src/ui/styles.css",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/ui/styles.css",
+        "ext": ".css",
+        "size": 29364
+      },
+      {
+        "path": "src/ui/app.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/ui/app.js",
+        "ext": ".js",
+        "size": 33254
+      },
+      {
+        "path": "src/core/brainstorm-engine.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/core/brainstorm-engine.js",
+        "ext": ".js",
+        "size": 16433
+      },
+      {
+        "path": "src/core/outline-engine.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/core/outline-engine.js",
+        "ext": ".js",
+        "size": 25933
+      },
+      {
+        "path": "src/core/ai-client.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/core/ai-client.js",
+        "ext": ".js",
+        "size": 12003
+      },
+      {
+        "path": "src/core/agent-router.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/core/agent-router.js",
+        "ext": ".js",
+        "size": 1613
+      },
+      {
+        "path": "src/agents/nonfiction/index.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/nonfiction/index.js",
+        "ext": ".js",
+        "size": 8535
+      },
+      {
+        "path": "src/agents/nonfiction/genres.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/nonfiction/genres.js",
+        "ext": ".js",
+        "size": 21113
+      },
+      {
+        "path": "src/agents/kidsbook/index.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/kidsbook/index.js",
+        "ext": ".js",
+        "size": 5997
+      },
+      {
+        "path": "src/agents/kidsbook/genres.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/kidsbook/genres.js",
+        "ext": ".js",
+        "size": 15615
+      },
+      {
+        "path": "src/agents/shortstory/index.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/shortstory/index.js",
+        "ext": ".js",
+        "size": 7036
+      },
+      {
+        "path": "src/agents/shortstory/genres.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/shortstory/genres.js",
+        "ext": ".js",
+        "size": 10254
+      },
+      {
+        "path": "src/agents/fiction/index.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/fiction/index.js",
+        "ext": ".js",
+        "size": 7426
+      },
+      {
+        "path": "src/agents/fiction/genres.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/agents/fiction/genres.js",
+        "ext": ".js",
+        "size": 24683
+      },
+      {
+        "path": "src/utils/file-output.js",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/agentic-novel-outliner/src/utils/file-output.js",
+        "ext": ".js",
+        "size": 1658
+      }
+    ]
+  },
+  "ai-book-pipeline": {
+    "repo": "ai-book-pipeline",
+    "total_matching_files": 88,
+    "files": [
+      {
+        "path": "CODEX_PLAN_REPORT.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/CODEX_PLAN_REPORT.md",
+        "ext": ".md",
+        "size": 4499
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/README.md",
+        "ext": ".md",
+        "size": 4563
+      },
+      {
+        "path": "CODEX.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/CODEX.md",
+        "ext": ".md",
+        "size": 4720
+      },
+      {
+        "path": "CLAUDE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/CLAUDE.md",
+        "ext": ".md",
+        "size": 9820
+      },
+      {
+        "path": "docs/getting-started.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/docs/getting-started.md",
+        "ext": ".md",
+        "size": 1524
+      },
+      {
+        "path": "docs/index.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/docs/index.md",
+        "ext": ".md",
+        "size": 3778
+      },
+      {
+        "path": "docs/features.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/docs/features.md",
+        "ext": ".md",
+        "size": 2886
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/README.md",
+        "ext": ".md",
+        "size": 4089
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/bibliography.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/bibliography.md",
+        "ext": ".md",
+        "size": 7067
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/review-checklist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/review-checklist.md",
+        "ext": ".md",
+        "size": 3732
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/author-voice.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/author-voice.md",
+        "ext": ".md",
+        "size": 6757
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/outline.md",
+        "ext": ".md",
+        "size": 12278
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/PROJECT.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/PROJECT.md",
+        "ext": ".md",
+        "size": 5720
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/progress.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/progress.md",
+        "ext": ".md",
+        "size": 5545
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/research.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/research.md",
+        "ext": ".md",
+        "size": 9650
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/chapter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/chapter.md",
+        "ext": ".md",
+        "size": 2771
+      },
+      {
+        "path": "my-books/sample-non-fiction-book/config/style-guide.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-non-fiction-book/config/style-guide.md",
+        "ext": ".md",
+        "size": 7193
+      },
+      {
+        "path": "my-books/sample-fiction-book/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/README.md",
+        "ext": ".md",
+        "size": 3355
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/scenes.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/scenes.md",
+        "ext": ".md",
+        "size": 4113
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/review-checklist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/review-checklist.md",
+        "ext": ".md",
+        "size": 3762
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/TEMPLATE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/TEMPLATE.md",
+        "ext": ".md",
+        "size": 3510
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/author-voice.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/author-voice.md",
+        "ext": ".md",
+        "size": 9209
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/outline.md",
+        "ext": ".md",
+        "size": 2943
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/PROJECT.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/PROJECT.md",
+        "ext": ".md",
+        "size": 3578
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/progress.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/progress.md",
+        "ext": ".md",
+        "size": 6027
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/characters.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/characters.md",
+        "ext": ".md",
+        "size": 8907
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/plot.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/plot.md",
+        "ext": ".md",
+        "size": 9427
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/chapter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/chapter.md",
+        "ext": ".md",
+        "size": 2986
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/world.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/world.md",
+        "ext": ".md",
+        "size": 6365
+      },
+      {
+        "path": "my-books/sample-fiction-book/config/style-guide.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/config/style-guide.md",
+        "ext": ".md",
+        "size": 3884
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/research/chapter-1-research.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/research/chapter-1-research.md",
+        "ext": ".md",
+        "size": 505
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/handoff/demo-phase-log.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/handoff/demo-phase-log.md",
+        "ext": ".md",
+        "size": 472
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/output/demo-summary.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/output/demo-summary.md",
+        "ext": ".md",
+        "size": 723
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/content/chapters/chapter-1-draft-v1.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/content/chapters/chapter-1-draft-v1.md",
+        "ext": ".md",
+        "size": 7653
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/content/chapters/chapter-2-draft-v1.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/content/chapters/chapter-2-draft-v1.md",
+        "ext": ".md",
+        "size": 7728
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/content/chapters/chapter-0-outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/content/chapters/chapter-0-outline.md",
+        "ext": ".md",
+        "size": 411
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/content/chapters/chapter-0-prologue-draft-v1.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/content/chapters/chapter-0-prologue-draft-v1.md",
+        "ext": ".md",
+        "size": 2563
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/content/chapters/chapter-3-draft-v1.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/content/chapters/chapter-3-draft-v1.md",
+        "ext": ".md",
+        "size": 6910
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/notes/ideas.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/notes/ideas.md",
+        "ext": ".md",
+        "size": 1159
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/import/import-report.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/import/import-report.md",
+        "ext": ".md",
+        "size": 2424
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/import/original/Light-Over-Citadel.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/import/original/Light-Over-Citadel.md",
+        "ext": ".md",
+        "size": 3189
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/import/original/persona-secondary.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/import/original/persona-secondary.md",
+        "ext": ".md",
+        "size": 4201
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/import/original/persona.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/import/original/persona.md",
+        "ext": ".md",
+        "size": 4641
+      },
+      {
+        "path": "my-books/sample-fiction-book/files/import/original/prologue-1.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/my-books/sample-fiction-book/files/import/original/prologue-1.md",
+        "ext": ".md",
+        "size": 2094
+      },
+      {
+        "path": "engine/CODING-AGENTS.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/CODING-AGENTS.md",
+        "ext": ".md",
+        "size": 26773
+      },
+      {
+        "path": "engine/STRUCTURE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/STRUCTURE.md",
+        "ext": ".md",
+        "size": 5830
+      },
+      {
+        "path": "engine/demo.sh",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/demo.sh",
+        "ext": ".sh",
+        "size": 8967
+      },
+      {
+        "path": "engine/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/__init__.py",
+        "ext": ".py",
+        "size": 60
+      },
+      {
+        "path": "engine/codex-improvements-suggestions.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/codex-improvements-suggestions.md",
+        "ext": ".md",
+        "size": 4496
+      },
+      {
+        "path": "engine/cli.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/cli.py",
+        "ext": ".py",
+        "size": 13600
+      },
+      {
+        "path": "engine/claude-improvements-suggestions.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/claude-improvements-suggestions.md",
+        "ext": ".md",
+        "size": 45376
+      },
+      {
+        "path": "engine/agents/orchestrator.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/orchestrator.md",
+        "ext": ".md",
+        "size": 4627
+      },
+      {
+        "path": "engine/agents/writer.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/writer.md",
+        "ext": ".md",
+        "size": 6346
+      },
+      {
+        "path": "engine/agents/INTEGRATION.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/INTEGRATION.md",
+        "ext": ".md",
+        "size": 12201
+      },
+      {
+        "path": "engine/agents/proofreader.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/proofreader.md",
+        "ext": ".md",
+        "size": 11698
+      },
+      {
+        "path": "engine/agents/publisher.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/publisher.md",
+        "ext": ".md",
+        "size": 6502
+      },
+      {
+        "path": "engine/agents/editor.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/editor.md",
+        "ext": ".md",
+        "size": 7432
+      },
+      {
+        "path": "engine/agents/WORKFLOW.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/WORKFLOW.md",
+        "ext": ".md",
+        "size": 41751
+      },
+      {
+        "path": "engine/agents/researcher.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/researcher.md",
+        "ext": ".md",
+        "size": 6181
+      },
+      {
+        "path": "engine/agents/critic.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/critic.md",
+        "ext": ".md",
+        "size": 6520
+      },
+      {
+        "path": "engine/agents/importer.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/importer.md",
+        "ext": ".md",
+        "size": 10705
+      },
+      {
+        "path": "engine/agents/AGENTS.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/AGENTS.md",
+        "ext": ".md",
+        "size": 21754
+      },
+      {
+        "path": "engine/agents/tools/validate_phase_5.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_phase_5.py",
+        "ext": ".py",
+        "size": 5676
+      },
+      {
+        "path": "engine/agents/tools/validate_phase_1.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_phase_1.py",
+        "ext": ".py",
+        "size": 5547
+      },
+      {
+        "path": "engine/agents/tools/validate_phase_0.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_phase_0.py",
+        "ext": ".py",
+        "size": 3943
+      },
+      {
+        "path": "engine/agents/tools/validate_phase_4.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_phase_4.py",
+        "ext": ".py",
+        "size": 6410
+      },
+      {
+        "path": "engine/agents/tools/validate_final_chapters.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_final_chapters.py",
+        "ext": ".py",
+        "size": 7453
+      },
+      {
+        "path": "engine/agents/tools/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/__init__.py",
+        "ext": ".py",
+        "size": 136
+      },
+      {
+        "path": "engine/agents/tools/validation_utils.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validation_utils.py",
+        "ext": ".py",
+        "size": 8751
+      },
+      {
+        "path": "engine/agents/tools/validate_research.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_research.py",
+        "ext": ".py",
+        "size": 9205
+      },
+      {
+        "path": "engine/agents/tools/validate_phase_3.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_phase_3.py",
+        "ext": ".py",
+        "size": 5170
+      },
+      {
+        "path": "engine/agents/tools/validate_phase_2.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/agents/tools/validate_phase_2.py",
+        "ext": ".py",
+        "size": 8800
+      },
+      {
+        "path": "engine/book-templates/review-checklist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/review-checklist.md",
+        "ext": ".md",
+        "size": 3748
+      },
+      {
+        "path": "engine/book-templates/author-voice.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/author-voice.md",
+        "ext": ".md",
+        "size": 8124
+      },
+      {
+        "path": "engine/book-templates/PROJECT.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/PROJECT.md",
+        "ext": ".md",
+        "size": 2095
+      },
+      {
+        "path": "engine/book-templates/progress.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/progress.md",
+        "ext": ".md",
+        "size": 3966
+      },
+      {
+        "path": "engine/book-templates/style-guide.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/style-guide.md",
+        "ext": ".md",
+        "size": 3793
+      },
+      {
+        "path": "engine/book-templates/non-fiction/bibliography.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/non-fiction/bibliography.md",
+        "ext": ".md",
+        "size": 2628
+      },
+      {
+        "path": "engine/book-templates/non-fiction/TEMPLATE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/non-fiction/TEMPLATE.md",
+        "ext": ".md",
+        "size": 3119
+      },
+      {
+        "path": "engine/book-templates/non-fiction/outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/non-fiction/outline.md",
+        "ext": ".md",
+        "size": 1804
+      },
+      {
+        "path": "engine/book-templates/non-fiction/research.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/non-fiction/research.md",
+        "ext": ".md",
+        "size": 2749
+      },
+      {
+        "path": "engine/book-templates/non-fiction/chapter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/non-fiction/chapter.md",
+        "ext": ".md",
+        "size": 1900
+      },
+      {
+        "path": "engine/book-templates/fiction/scenes.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/fiction/scenes.md",
+        "ext": ".md",
+        "size": 4032
+      },
+      {
+        "path": "engine/book-templates/fiction/TEMPLATE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/fiction/TEMPLATE.md",
+        "ext": ".md",
+        "size": 3657
+      },
+      {
+        "path": "engine/book-templates/fiction/characters.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/fiction/characters.md",
+        "ext": ".md",
+        "size": 4611
+      },
+      {
+        "path": "engine/book-templates/fiction/plot.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/fiction/plot.md",
+        "ext": ".md",
+        "size": 5231
+      },
+      {
+        "path": "engine/book-templates/fiction/chapter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/fiction/chapter.md",
+        "ext": ".md",
+        "size": 2859
+      },
+      {
+        "path": "engine/book-templates/fiction/world.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/ai-book-pipeline/engine/book-templates/fiction/world.md",
+        "ext": ".md",
+        "size": 3791
+      }
+    ]
+  },
+  "boekwriter": {
+    "repo": "boekwriter",
+    "total_matching_files": 12,
+    "files": [
+      {
+        "path": "queries.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/queries.yaml",
+        "ext": ".yaml",
+        "size": 5236
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/README.md",
+        "ext": ".md",
+        "size": 1593
+      },
+      {
+        "path": "template.tex",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/template.tex",
+        "ext": ".tex",
+        "size": 1976
+      },
+      {
+        "path": "write_book.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/write_book.py",
+        "ext": ".py",
+        "size": 7049
+      },
+      {
+        "path": "llmwrapper/wrapper.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/llmwrapper/wrapper.py",
+        "ext": ".py",
+        "size": 11017
+      },
+      {
+        "path": "llmwrapper/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/llmwrapper/__init__.py",
+        "ext": ".py",
+        "size": 104
+      },
+      {
+        "path": "llmwrapper/yaml.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/llmwrapper/yaml.py",
+        "ext": ".py",
+        "size": 7583
+      },
+      {
+        "path": "llmwrapper/utils.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/llmwrapper/utils.py",
+        "ext": ".py",
+        "size": 6016
+      },
+      {
+        "path": "llmwrapper/jsonschema.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/llmwrapper/jsonschema.py",
+        "ext": ".py",
+        "size": 3151
+      },
+      {
+        "path": "latex/unicode.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/latex/unicode.py",
+        "ext": ".py",
+        "size": 1170
+      },
+      {
+        "path": "latex/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/latex/__init__.py",
+        "ext": ".py",
+        "size": 131
+      },
+      {
+        "path": "latex/latex.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/boekwriter/latex/latex.py",
+        "ext": ".py",
+        "size": 16334
+      }
+    ]
+  },
+  "bookgen": {
+    "repo": "bookgen",
+    "total_matching_files": 68,
+    "files": [
+      {
+        "path": "book.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/book.md",
+        "ext": ".md",
+        "size": 355434
+      },
+      {
+        "path": "OUTLINE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/OUTLINE.md",
+        "ext": ".md",
+        "size": 3490
+      },
+      {
+        "path": "bookops.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/bookops.py",
+        "ext": ".py",
+        "size": 18813
+      },
+      {
+        "path": "RUNBOOK.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/RUNBOOK.md",
+        "ext": ".md",
+        "size": 2110
+      },
+      {
+        "path": "STYLE_GUIDE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/STYLE_GUIDE.md",
+        "ext": ".md",
+        "size": 1749
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/README.md",
+        "ext": ".md",
+        "size": 4862
+      },
+      {
+        "path": "BOOKOPS_WORKFLOW.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/BOOKOPS_WORKFLOW.md",
+        "ext": ".md",
+        "size": 692
+      },
+      {
+        "path": "bookgen.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/bookgen.py",
+        "ext": ".py",
+        "size": 26975
+      },
+      {
+        "path": "publishing/acx_audiobook_plan.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/publishing/acx_audiobook_plan.md",
+        "ext": ".md",
+        "size": 568
+      },
+      {
+        "path": "publishing/pricing_strategy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/publishing/pricing_strategy.md",
+        "ext": ".md",
+        "size": 522
+      },
+      {
+        "path": "publishing/metadata_keywords.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/publishing/metadata_keywords.md",
+        "ext": ".md",
+        "size": 933
+      },
+      {
+        "path": "publishing/kdp_setup_checklist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/publishing/kdp_setup_checklist.md",
+        "ext": ".md",
+        "size": 760
+      },
+      {
+        "path": "publishing/ingramspark_setup.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/publishing/ingramspark_setup.md",
+        "ext": ".md",
+        "size": 581
+      },
+      {
+        "path": "publishing/isbn_strategy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/publishing/isbn_strategy.md",
+        "ext": ".md",
+        "size": 455
+      },
+      {
+        "path": "manuscript/03_ch02_architecture_of_secrecy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/03_ch02_architecture_of_secrecy.md",
+        "ext": ".md",
+        "size": 21953
+      },
+      {
+        "path": "manuscript/13_endnotes_scaffold.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/13_endnotes_scaffold.md",
+        "ext": ".md",
+        "size": 3784
+      },
+      {
+        "path": "manuscript/02_ch01_the_cave_revisited.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/02_ch01_the_cave_revisited.md",
+        "ext": ".md",
+        "size": 21160
+      },
+      {
+        "path": "manuscript/05_ch04_media_incentives.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/05_ch04_media_incentives.md",
+        "ext": ".md",
+        "size": 21491
+      },
+      {
+        "path": "manuscript/01_introduction.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/01_introduction.md",
+        "ext": ".md",
+        "size": 21630
+      },
+      {
+        "path": "manuscript/00_front_matter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/00_front_matter.md",
+        "ext": ".md",
+        "size": 2161
+      },
+      {
+        "path": "manuscript/04_ch03_bureaucracy_as_power.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/04_ch03_bureaucracy_as_power.md",
+        "ext": ".md",
+        "size": 21731
+      },
+      {
+        "path": "manuscript/12_glossary.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/12_glossary.md",
+        "ext": ".md",
+        "size": 2572
+      },
+      {
+        "path": "manuscript/06_ch05_information_asymmetry_state.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/06_ch05_information_asymmetry_state.md",
+        "ext": ".md",
+        "size": 22340
+      },
+      {
+        "path": "manuscript/14_bibliography_seed.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/14_bibliography_seed.md",
+        "ext": ".md",
+        "size": 5445
+      },
+      {
+        "path": "manuscript/09_ch08_reform_transparency_limits.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/09_ch08_reform_transparency_limits.md",
+        "ext": ".md",
+        "size": 22736
+      },
+      {
+        "path": "manuscript/08_ch07_escaping_the_cave.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/08_ch07_escaping_the_cave.md",
+        "ext": ".md",
+        "size": 22493
+      },
+      {
+        "path": "manuscript/11_appendix_publishing_and_selling.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/11_appendix_publishing_and_selling.md",
+        "ext": ".md",
+        "size": 4908
+      },
+      {
+        "path": "manuscript/10_ch09_sober_conclusion.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/10_ch09_sober_conclusion.md",
+        "ext": ".md",
+        "size": 21662
+      },
+      {
+        "path": "manuscript/07_ch06_why_conspiracy_narratives.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/manuscript/07_ch06_why_conspiracy_narratives.md",
+        "ext": ".md",
+        "size": 22287
+      },
+      {
+        "path": "design/back_cover_copy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/design/back_cover_copy.md",
+        "ext": ".md",
+        "size": 817
+      },
+      {
+        "path": "design/cover_image_prompts.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/design/cover_image_prompts.md",
+        "ext": ".md",
+        "size": 1324
+      },
+      {
+        "path": "design/cover_brief.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/design/cover_brief.md",
+        "ext": ".md",
+        "size": 874
+      },
+      {
+        "path": "design/spine_text.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/design/spine_text.md",
+        "ext": ".md",
+        "size": 286
+      },
+      {
+        "path": "design/interior_layout_specs.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/design/interior_layout_specs.md",
+        "ext": ".md",
+        "size": 644
+      },
+      {
+        "path": "launch/influencer_outreach_script.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/launch/influencer_outreach_script.md",
+        "ext": ".md",
+        "size": 407
+      },
+      {
+        "path": "launch/launch_metrics_dashboard.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/launch/launch_metrics_dashboard.md",
+        "ext": ".md",
+        "size": 627
+      },
+      {
+        "path": "launch/podcast_pitch_template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/launch/podcast_pitch_template.md",
+        "ext": ".md",
+        "size": 737
+      },
+      {
+        "path": "launch/op_ed_pitch_template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/launch/op_ed_pitch_template.md",
+        "ext": ".md",
+        "size": 642
+      },
+      {
+        "path": "launch/email_sequence.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/launch/email_sequence.md",
+        "ext": ".md",
+        "size": 673
+      },
+      {
+        "path": "launch/90_day_launch_calendar.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/launch/90_day_launch_calendar.md",
+        "ext": ".md",
+        "size": 1204
+      },
+      {
+        "path": "ideation/product_strategy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/ideation/product_strategy.md",
+        "ext": ".md",
+        "size": 1030
+      },
+      {
+        "path": "ideation/thesis_engine.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/ideation/thesis_engine.md",
+        "ext": ".md",
+        "size": 1321
+      },
+      {
+        "path": "books/shadows_and_structures.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/books/shadows_and_structures.yaml",
+        "ext": ".yaml",
+        "size": 4473
+      },
+      {
+        "path": "books/prediction_markets.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/books/prediction_markets.yaml",
+        "ext": ".yaml",
+        "size": 4497
+      },
+      {
+        "path": "books/agent_economics.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/books/agent_economics.yaml",
+        "ext": ".yaml",
+        "size": 4292
+      },
+      {
+        "path": "books/the_4am_protocol.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/books/the_4am_protocol.yaml",
+        "ext": ".yaml",
+        "size": 3959
+      },
+      {
+        "path": "books/ai-productivity-playbook.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/books/ai-productivity-playbook.yaml",
+        "ext": ".yaml",
+        "size": 3018
+      },
+      {
+        "path": "proposal/overview.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/overview.md",
+        "ext": ".md",
+        "size": 1260
+      },
+      {
+        "path": "proposal/sample_chapter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/sample_chapter.md",
+        "ext": ".md",
+        "size": 13995
+      },
+      {
+        "path": "proposal/market_analysis.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/market_analysis.md",
+        "ext": ".md",
+        "size": 1114
+      },
+      {
+        "path": "proposal/publicity_targets.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/publicity_targets.md",
+        "ext": ".md",
+        "size": 629
+      },
+      {
+        "path": "proposal/competitive_titles.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/competitive_titles.md",
+        "ext": ".md",
+        "size": 825
+      },
+      {
+        "path": "proposal/author_bio.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/author_bio.md",
+        "ext": ".md",
+        "size": 551
+      },
+      {
+        "path": "proposal/platform_strategy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/platform_strategy.md",
+        "ext": ".md",
+        "size": 685
+      },
+      {
+        "path": "proposal/chapter_summaries.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/proposal/chapter_summaries.md",
+        "ext": ".md",
+        "size": 3110
+      },
+      {
+        "path": "site/index.html",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/site/index.html",
+        "ext": ".html",
+        "size": 10537
+      },
+      {
+        "path": "marketing/substack_series.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/marketing/substack_series.md",
+        "ext": ".md",
+        "size": 3550
+      },
+      {
+        "path": "marketing/excerpts.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/marketing/excerpts.md",
+        "ext": ".md",
+        "size": 6035
+      },
+      {
+        "path": "marketing/tweet_threads.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/marketing/tweet_threads.md",
+        "ext": ".md",
+        "size": 14766
+      },
+      {
+        "path": "kdp-ready/shadows-and-structures/metadata.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/kdp-ready/shadows-and-structures/metadata.json",
+        "ext": ".json",
+        "size": 2327
+      },
+      {
+        "path": "kdp-ready/shadows-and-structures/manuscript.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/kdp-ready/shadows-and-structures/manuscript.md",
+        "ext": ".md",
+        "size": 229777
+      },
+      {
+        "path": "kdp-ready/shadows-and-structures/manuscript.html",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/kdp-ready/shadows-and-structures/manuscript.html",
+        "ext": ".html",
+        "size": 235016
+      },
+      {
+        "path": "kdp-ready/ai-productivity-playbook/metadata.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/kdp-ready/ai-productivity-playbook/metadata.json",
+        "ext": ".json",
+        "size": 1792
+      },
+      {
+        "path": "kdp-ready/ai-productivity-playbook/manuscript.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/kdp-ready/ai-productivity-playbook/manuscript.md",
+        "ext": ".md",
+        "size": 28455
+      },
+      {
+        "path": "monetization/premium_course_outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/monetization/premium_course_outline.md",
+        "ext": ".md",
+        "size": 600
+      },
+      {
+        "path": "monetization/consulting_offer_structure.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/monetization/consulting_offer_structure.md",
+        "ext": ".md",
+        "size": 579
+      },
+      {
+        "path": "monetization/paid_newsletter_strategy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/monetization/paid_newsletter_strategy.md",
+        "ext": ".md",
+        "size": 620
+      },
+      {
+        "path": "monetization/speaking_pitch_deck.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookgen/monetization/speaking_pitch_deck.md",
+        "ext": ".md",
+        "size": 527
+      }
+    ]
+  },
+  "bookwiz-ai-prompts": {
+    "repo": "bookwiz-ai-prompts",
+    "total_matching_files": 9,
+    "files": [
+      {
+        "path": "LICENSE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/LICENSE.md",
+        "ext": ".md",
+        "size": 2034
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/README.md",
+        "ext": ".md",
+        "size": 5419
+      },
+      {
+        "path": "image/cover-image.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/image/cover-image.txt",
+        "ext": ".txt",
+        "size": 0
+      },
+      {
+        "path": "text/theme.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/text/theme.txt",
+        "ext": ".txt",
+        "size": 247
+      },
+      {
+        "path": "text/title.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/text/title.txt",
+        "ext": ".txt",
+        "size": 115
+      },
+      {
+        "path": "text/plot.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/text/plot.txt",
+        "ext": ".txt",
+        "size": 92
+      },
+      {
+        "path": "text/cover-image-description.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/text/cover-image-description.txt",
+        "ext": ".txt",
+        "size": 220
+      },
+      {
+        "path": "text/character.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/text/character.txt",
+        "ext": ".txt",
+        "size": 692
+      },
+      {
+        "path": "text/synopsis.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/bookwiz-ai-prompts/text/synopsis.txt",
+        "ext": ".txt",
+        "size": 5340
+      }
+    ]
+  },
+  "libriscribe": {
+    "repo": "libriscribe",
+    "total_matching_files": 121,
+    "files": [
+      {
+        "path": "requirements.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/requirements.txt",
+        "ext": ".txt",
+        "size": 209
+      },
+      {
+        "path": "__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/__init__.py",
+        "ext": ".py",
+        "size": 0
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/README.md",
+        "ext": ".md",
+        "size": 20234
+      },
+      {
+        "path": "setup.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/setup.py",
+        "ext": ".py",
+        "size": 679
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/CONTRIBUTING.md",
+        "ext": ".md",
+        "size": 2616
+      },
+      {
+        "path": "tests/test_model_routing.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_model_routing.py",
+        "ext": ".py",
+        "size": 1845
+      },
+      {
+        "path": "tests/test_style_research.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_style_research.py",
+        "ext": ".py",
+        "size": 8137
+      },
+      {
+        "path": "tests/test_configuration.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_configuration.py",
+        "ext": ".py",
+        "size": 2397
+      },
+      {
+        "path": "tests/test_project_manager.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_project_manager.py",
+        "ext": ".py",
+        "size": 2238
+      },
+      {
+        "path": "tests/test_workflow_state.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_workflow_state.py",
+        "ext": ".py",
+        "size": 4252
+      },
+      {
+        "path": "tests/test_narrative_graph.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_narrative_graph.py",
+        "ext": ".py",
+        "size": 6363
+      },
+      {
+        "path": "tests/test_llm_fallback.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_llm_fallback.py",
+        "ext": ".py",
+        "size": 2915
+      },
+      {
+        "path": "tests/test_pacing_agent.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_pacing_agent.py",
+        "ext": ".py",
+        "size": 4208
+      },
+      {
+        "path": "tests/test_chapter_writer_research.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_chapter_writer_research.py",
+        "ext": ".py",
+        "size": 3226
+      },
+      {
+        "path": "tests/test_retrieval_pipeline.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/tests/test_retrieval_pipeline.py",
+        "ext": ".py",
+        "size": 10381
+      },
+      {
+        "path": "docs/docusaurus.config.ts",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docusaurus.config.ts",
+        "ext": ".ts",
+        "size": 2894
+      },
+      {
+        "path": "docs/sidebars.ts",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/sidebars.ts",
+        "ext": ".ts",
+        "size": 860
+      },
+      {
+        "path": "docs/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/README.md",
+        "ext": ".md",
+        "size": 971
+      },
+      {
+        "path": "docs/package-lock.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/package-lock.json",
+        "ext": ".json",
+        "size": 647798
+      },
+      {
+        "path": "docs/package.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/package.json",
+        "ext": ".json",
+        "size": 1170
+      },
+      {
+        "path": "docs/tsconfig.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/tsconfig.json",
+        "ext": ".json",
+        "size": 215
+      },
+      {
+        "path": "docs/external-prompts.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/external-prompts.md",
+        "ext": ".md",
+        "size": 1657
+      },
+      {
+        "path": "docs/docs/usage.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/usage.md",
+        "ext": ".md",
+        "size": 4272
+      },
+      {
+        "path": "docs/docs/intro.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/intro.md",
+        "ext": ".md",
+        "size": 3656
+      },
+      {
+        "path": "docs/docs/getting-started.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/getting-started.md",
+        "ext": ".md",
+        "size": 3265
+      },
+      {
+        "path": "docs/docs/agents/worldbuilding.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/worldbuilding.md",
+        "ext": ".md",
+        "size": 2858
+      },
+      {
+        "path": "docs/docs/agents/content-reviewer.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/content-reviewer.md",
+        "ext": ".md",
+        "size": 2506
+      },
+      {
+        "path": "docs/docs/agents/pacing-agent.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/pacing-agent.md",
+        "ext": ".md",
+        "size": 3733
+      },
+      {
+        "path": "docs/docs/agents/narrative-graph-builder.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/narrative-graph-builder.md",
+        "ext": ".md",
+        "size": 2771
+      },
+      {
+        "path": "docs/docs/agents/_category_.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/_category_.json",
+        "ext": ".json",
+        "size": 192
+      },
+      {
+        "path": "docs/docs/agents/editor.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/editor.md",
+        "ext": ".md",
+        "size": 2314
+      },
+      {
+        "path": "docs/docs/agents/chapter-writer.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/chapter-writer.md",
+        "ext": ".md",
+        "size": 6127
+      },
+      {
+        "path": "docs/docs/agents/researcher.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/researcher.md",
+        "ext": ".md",
+        "size": 3208
+      },
+      {
+        "path": "docs/docs/agents/invariant-checker.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/invariant-checker.md",
+        "ext": ".md",
+        "size": 2324
+      },
+      {
+        "path": "docs/docs/agents/project-manager.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/project-manager.md",
+        "ext": ".md",
+        "size": 3821
+      },
+      {
+        "path": "docs/docs/agents/outliner.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/outliner.md",
+        "ext": ".md",
+        "size": 4055
+      },
+      {
+        "path": "docs/docs/agents/style-research.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/style-research.md",
+        "ext": ".md",
+        "size": 3318
+      },
+      {
+        "path": "docs/docs/agents/plagiarism-checker.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/plagiarism-checker.md",
+        "ext": ".md",
+        "size": 2598
+      },
+      {
+        "path": "docs/docs/agents/concept-generator.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/concept-generator.md",
+        "ext": ".md",
+        "size": 2082
+      },
+      {
+        "path": "docs/docs/agents/character-generator.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/character-generator.md",
+        "ext": ".md",
+        "size": 2604
+      },
+      {
+        "path": "docs/docs/agents/fact-checker.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/fact-checker.md",
+        "ext": ".md",
+        "size": 2521
+      },
+      {
+        "path": "docs/docs/agents/content-quality-agent.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/content-quality-agent.md",
+        "ext": ".md",
+        "size": 3441
+      },
+      {
+        "path": "docs/docs/agents/formatting.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/formatting.md",
+        "ext": ".md",
+        "size": 2452
+      },
+      {
+        "path": "docs/docs/agents/style-editor.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/docs/agents/style-editor.md",
+        "ext": ".md",
+        "size": 2561
+      },
+      {
+        "path": "docs/blog/2019-05-29-long-blog-post.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/blog/2019-05-29-long-blog-post.md",
+        "ext": ".md",
+        "size": 3122
+      },
+      {
+        "path": "docs/blog/authors.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/blog/authors.yml",
+        "ext": ".yml",
+        "size": 614
+      },
+      {
+        "path": "docs/blog/tags.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/blog/tags.yml",
+        "ext": ".yml",
+        "size": 347
+      },
+      {
+        "path": "docs/blog/2019-05-28-first-blog-post.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/blog/2019-05-28-first-blog-post.md",
+        "ext": ".md",
+        "size": 312
+      },
+      {
+        "path": "docs/blog/2021-08-26-welcome/index.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/blog/2021-08-26-welcome/index.md",
+        "ext": ".md",
+        "size": 846
+      },
+      {
+        "path": "docs/static/img/undraw_researching_5qj6.svg",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/static/img/undraw_researching_5qj6.svg",
+        "ext": ".svg",
+        "size": 17097
+      },
+      {
+        "path": "docs/src/components/HomepageFeatures/styles.module.css",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/src/components/HomepageFeatures/styles.module.css",
+        "ext": ".css",
+        "size": 138
+      },
+      {
+        "path": "docs/src/pages/markdown-page.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/docs/src/pages/markdown-page.md",
+        "ext": ".md",
+        "size": 118
+      },
+      {
+        "path": "examples/expert-config.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/examples/expert-config.yaml",
+        "ext": ".yaml",
+        "size": 1112
+      },
+      {
+        "path": "examples/expert-config.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/examples/expert-config.json",
+        "ext": ".json",
+        "size": 1354
+      },
+      {
+        "path": "prompts/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/README.md",
+        "ext": ".md",
+        "size": 1355
+      },
+      {
+        "path": "prompts/templates/plagiarism_checker.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/plagiarism_checker.yml",
+        "ext": ".yml",
+        "size": 988
+      },
+      {
+        "path": "prompts/templates/character_generator.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/character_generator.yml",
+        "ext": ".yml",
+        "size": 906
+      },
+      {
+        "path": "prompts/templates/scene_outliner.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/scene_outliner.yml",
+        "ext": ".yml",
+        "size": 837
+      },
+      {
+        "path": "prompts/templates/outliner.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/outliner.yml",
+        "ext": ".yml",
+        "size": 821
+      },
+      {
+        "path": "prompts/templates/content_reviewer.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/content_reviewer.yml",
+        "ext": ".yml",
+        "size": 884
+      },
+      {
+        "path": "prompts/templates/concept_generator.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/concept_generator.yml",
+        "ext": ".yml",
+        "size": 662
+      },
+      {
+        "path": "prompts/templates/researcher.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/researcher.yml",
+        "ext": ".yml",
+        "size": 776
+      },
+      {
+        "path": "prompts/templates/style_editor.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/style_editor.yml",
+        "ext": ".yml",
+        "size": 856
+      },
+      {
+        "path": "prompts/templates/fact_checker.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/fact_checker.yml",
+        "ext": ".yml",
+        "size": 947
+      },
+      {
+        "path": "prompts/templates/editor.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/editor.yml",
+        "ext": ".yml",
+        "size": 1038
+      },
+      {
+        "path": "prompts/templates/chapter_writer.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/chapter_writer.yml",
+        "ext": ".yml",
+        "size": 746
+      },
+      {
+        "path": "prompts/templates/scene_generator.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/scene_generator.yml",
+        "ext": ".yml",
+        "size": 939
+      },
+      {
+        "path": "prompts/templates/worldbuilding.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/prompts/templates/worldbuilding.yml",
+        "ext": ".yml",
+        "size": 829
+      },
+      {
+        "path": ".superpowers/sdd/pipeline-fixes-plan.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/.superpowers/sdd/pipeline-fixes-plan.md",
+        "ext": ".md",
+        "size": 10558
+      },
+      {
+        "path": ".superpowers/sdd/pipeline-fixes/final-review-package.diff",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/.superpowers/sdd/pipeline-fixes/final-review-package.diff",
+        "ext": ".diff",
+        "size": 19124
+      },
+      {
+        "path": ".superpowers/sdd/pipeline-fixes/progress.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/.superpowers/sdd/pipeline-fixes/progress.md",
+        "ext": ".md",
+        "size": 681
+      },
+      {
+        "path": "src/libriscribe/configuration.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/configuration.py",
+        "ext": ".py",
+        "size": 6333
+      },
+      {
+        "path": "src/libriscribe/knowledge_base.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/knowledge_base.py",
+        "ext": ".py",
+        "size": 8091
+      },
+      {
+        "path": "src/libriscribe/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/__init__.py",
+        "ext": ".py",
+        "size": 0
+      },
+      {
+        "path": "src/libriscribe/workflow_state.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/workflow_state.py",
+        "ext": ".py",
+        "size": 5672
+      },
+      {
+        "path": "src/libriscribe/settings.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/settings.py",
+        "ext": ".py",
+        "size": 1873
+      },
+      {
+        "path": "src/libriscribe/main.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/main.py",
+        "ext": ".py",
+        "size": 59176
+      },
+      {
+        "path": "src/libriscribe/narrative/models.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/narrative/models.py",
+        "ext": ".py",
+        "size": 1840
+      },
+      {
+        "path": "src/libriscribe/narrative/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/narrative/__init__.py",
+        "ext": ".py",
+        "size": 82
+      },
+      {
+        "path": "src/libriscribe/narrative/graph_builder.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/narrative/graph_builder.py",
+        "ext": ".py",
+        "size": 5593
+      },
+      {
+        "path": "src/libriscribe/narrative/invariant_checker.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/narrative/invariant_checker.py",
+        "ext": ".py",
+        "size": 4818
+      },
+      {
+        "path": "src/libriscribe/agents/agent_base.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/agent_base.py",
+        "ext": ".py",
+        "size": 601
+      },
+      {
+        "path": "src/libriscribe/agents/pacing_agent.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/pacing_agent.py",
+        "ext": ".py",
+        "size": 6763
+      },
+      {
+        "path": "src/libriscribe/agents/content_quality.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/content_quality.py",
+        "ext": ".py",
+        "size": 8783
+      },
+      {
+        "path": "src/libriscribe/agents/plagiarism_checker.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/plagiarism_checker.py",
+        "ext": ".py",
+        "size": 4088
+      },
+      {
+        "path": "src/libriscribe/agents/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/__init__.py",
+        "ext": ".py",
+        "size": 0
+      },
+      {
+        "path": "src/libriscribe/agents/fact_checker.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/fact_checker.py",
+        "ext": ".py",
+        "size": 3972
+      },
+      {
+        "path": "src/libriscribe/agents/content_reviewer.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/content_reviewer.py",
+        "ext": ".py",
+        "size": 3564
+      },
+      {
+        "path": "src/libriscribe/agents/formatting.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/formatting.py",
+        "ext": ".py",
+        "size": 4167
+      },
+      {
+        "path": "src/libriscribe/agents/style_editor.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/style_editor.py",
+        "ext": ".py",
+        "size": 4102
+      },
+      {
+        "path": "src/libriscribe/agents/worldbuilding.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/worldbuilding.py",
+        "ext": ".py",
+        "size": 8468
+      },
+      {
+        "path": "src/libriscribe/agents/character_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/character_generator.py",
+        "ext": ".py",
+        "size": 10274
+      },
+      {
+        "path": "src/libriscribe/agents/concept_generator.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/concept_generator.py",
+        "ext": ".py",
+        "size": 6795
+      },
+      {
+        "path": "src/libriscribe/agents/editor_enhanced.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/editor_enhanced.py",
+        "ext": ".py",
+        "size": 2204
+      },
+      {
+        "path": "src/libriscribe/agents/editor.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/editor.py",
+        "ext": ".py",
+        "size": 6246
+      },
+      {
+        "path": "src/libriscribe/agents/formatting_optimized.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/formatting_optimized.py",
+        "ext": ".py",
+        "size": 2989
+      },
+      {
+        "path": "src/libriscribe/agents/outliner.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/outliner.py",
+        "ext": ".py",
+        "size": 22550
+      },
+      {
+        "path": "src/libriscribe/agents/project_manager.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/project_manager.py",
+        "ext": ".py",
+        "size": 43442
+      },
+      {
+        "path": "src/libriscribe/agents/researcher.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/researcher.py",
+        "ext": ".py",
+        "size": 4769
+      },
+      {
+        "path": "src/libriscribe/agents/chapter_writer.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/chapter_writer.py",
+        "ext": ".py",
+        "size": 18553
+      },
+      {
+        "path": "src/libriscribe/agents/style_research.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/agents/style_research.py",
+        "ext": ".py",
+        "size": 3450
+      },
+      {
+        "path": "src/libriscribe/utils/cost_tracker.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/cost_tracker.py",
+        "ext": ".py",
+        "size": 1770
+      },
+      {
+        "path": "src/libriscribe/utils/prompts_context.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/prompts_context.py",
+        "ext": ".py",
+        "size": 18954
+      },
+      {
+        "path": "src/libriscribe/utils/model_routing.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/model_routing.py",
+        "ext": ".py",
+        "size": 3045
+      },
+      {
+        "path": "src/libriscribe/utils/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/__init__.py",
+        "ext": ".py",
+        "size": 0
+      },
+      {
+        "path": "src/libriscribe/utils/prompt_integration.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/prompt_integration.py",
+        "ext": ".py",
+        "size": 2458
+      },
+      {
+        "path": "src/libriscribe/utils/llm_client.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/llm_client.py",
+        "ext": ".py",
+        "size": 19219
+      },
+      {
+        "path": "src/libriscribe/utils/project_status.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/project_status.py",
+        "ext": ".py",
+        "size": 2709
+      },
+      {
+        "path": "src/libriscribe/utils/file_utils.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/file_utils.py",
+        "ext": ".py",
+        "size": 5189
+      },
+      {
+        "path": "src/libriscribe/utils/editor.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/editor.py",
+        "ext": ".py",
+        "size": 561
+      },
+      {
+        "path": "src/libriscribe/utils/prompt_loader.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/utils/prompt_loader.py",
+        "ext": ".py",
+        "size": 1595
+      },
+      {
+        "path": "src/libriscribe/retrieval/cross_reference.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/cross_reference.py",
+        "ext": ".py",
+        "size": 3740
+      },
+      {
+        "path": "src/libriscribe/retrieval/chunking.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/chunking.py",
+        "ext": ".py",
+        "size": 5961
+      },
+      {
+        "path": "src/libriscribe/retrieval/config.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/config.py",
+        "ext": ".py",
+        "size": 1511
+      },
+      {
+        "path": "src/libriscribe/retrieval/metadata.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/metadata.py",
+        "ext": ".py",
+        "size": 1724
+      },
+      {
+        "path": "src/libriscribe/retrieval/models.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/models.py",
+        "ext": ".py",
+        "size": 3482
+      },
+      {
+        "path": "src/libriscribe/retrieval/__init__.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/__init__.py",
+        "ext": ".py",
+        "size": 408
+      },
+      {
+        "path": "src/libriscribe/retrieval/keyword_index.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/keyword_index.py",
+        "ext": ".py",
+        "size": 8069
+      },
+      {
+        "path": "src/libriscribe/retrieval/index_manager.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/index_manager.py",
+        "ext": ".py",
+        "size": 5976
+      },
+      {
+        "path": "src/libriscribe/retrieval/document_builder.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/document_builder.py",
+        "ext": ".py",
+        "size": 10173
+      },
+      {
+        "path": "src/libriscribe/retrieval/search_service.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/libriscribe/src/libriscribe/retrieval/search_service.py",
+        "ext": ".py",
+        "size": 3169
+      }
+    ]
+  },
+  "novel-template": {
+    "repo": "novel-template",
+    "total_matching_files": 55,
+    "files": [
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/README.md",
+        "ext": ".md",
+        "size": 20880
+      },
+      {
+        "path": "CLAUDE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/CLAUDE.md",
+        "ext": ".md",
+        "size": 8600
+      },
+      {
+        "path": "manuscript/outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/manuscript/outline.md",
+        "ext": ".md",
+        "size": 2807
+      },
+      {
+        "path": "patterns/story-structures.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/patterns/story-structures.md",
+        "ext": ".md",
+        "size": 11697
+      },
+      {
+        "path": "patterns/character-craft.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/patterns/character-craft.md",
+        "ext": ".md",
+        "size": 11335
+      },
+      {
+        "path": "patterns/scene-craft.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/patterns/scene-craft.md",
+        "ext": ".md",
+        "size": 10503
+      },
+      {
+        "path": "patterns/dialogue-craft.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/patterns/dialogue-craft.md",
+        "ext": ".md",
+        "size": 11192
+      },
+      {
+        "path": "ideation/03-world-building.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/ideation/03-world-building.md",
+        "ext": ".md",
+        "size": 3205
+      },
+      {
+        "path": "ideation/04-structure-blueprint.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/ideation/04-structure-blueprint.md",
+        "ext": ".md",
+        "size": 6788
+      },
+      {
+        "path": "ideation/05-theme-discovery.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/ideation/05-theme-discovery.md",
+        "ext": ".md",
+        "size": 3524
+      },
+      {
+        "path": "ideation/01-premise-discovery.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/ideation/01-premise-discovery.md",
+        "ext": ".md",
+        "size": 2889
+      },
+      {
+        "path": "ideation/02-character-genesis.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/ideation/02-character-genesis.md",
+        "ext": ".md",
+        "size": 3518
+      },
+      {
+        "path": ".claude/settings.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/settings.json",
+        "ext": ".json",
+        "size": 90
+      },
+      {
+        "path": ".claude/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/README.md",
+        "ext": ".md",
+        "size": 6751
+      },
+      {
+        "path": ".claude/memory/MEMORY.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/memory/MEMORY.md",
+        "ext": ".md",
+        "size": 307
+      },
+      {
+        "path": ".claude/agents/character-weaver.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/character-weaver.md",
+        "ext": ".md",
+        "size": 3863
+      },
+      {
+        "path": ".claude/agents/dialogue-surgeon.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/dialogue-surgeon.md",
+        "ext": ".md",
+        "size": 4926
+      },
+      {
+        "path": ".claude/agents/story-director.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/story-director.md",
+        "ext": ".md",
+        "size": 2841
+      },
+      {
+        "path": ".claude/agents/developmental-editor.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/developmental-editor.md",
+        "ext": ".md",
+        "size": 4739
+      },
+      {
+        "path": ".claude/agents/scene-crafter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/scene-crafter.md",
+        "ext": ".md",
+        "size": 4591
+      },
+      {
+        "path": ".claude/agents/idea-excavator.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/idea-excavator.md",
+        "ext": ".md",
+        "size": 2629
+      },
+      {
+        "path": ".claude/agents/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/README.md",
+        "ext": ".md",
+        "size": 1674
+      },
+      {
+        "path": ".claude/agents/story-architect.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/story-architect.md",
+        "ext": ".md",
+        "size": 4987
+      },
+      {
+        "path": ".claude/agents/line-editor.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/line-editor.md",
+        "ext": ".md",
+        "size": 4848
+      },
+      {
+        "path": ".claude/agents/continuity-keeper.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/continuity-keeper.md",
+        "ext": ".md",
+        "size": 4656
+      },
+      {
+        "path": ".claude/agents/world-tender.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/agents/world-tender.md",
+        "ext": ".md",
+        "size": 3691
+      },
+      {
+        "path": ".claude/hooks/hooks-config.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/hooks/hooks-config.json",
+        "ext": ".json",
+        "size": 3197
+      },
+      {
+        "path": ".claude/commands/character.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/character.md",
+        "ext": ".md",
+        "size": 1390
+      },
+      {
+        "path": ".claude/commands/outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/outline.md",
+        "ext": ".md",
+        "size": 1388
+      },
+      {
+        "path": ".claude/commands/new-chapter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/new-chapter.md",
+        "ext": ".md",
+        "size": 1256
+      },
+      {
+        "path": ".claude/commands/line-edit.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/line-edit.md",
+        "ext": ".md",
+        "size": 1718
+      },
+      {
+        "path": ".claude/commands/theme-discover.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/theme-discover.md",
+        "ext": ".md",
+        "size": 1586
+      },
+      {
+        "path": ".claude/commands/dev-edit.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/dev-edit.md",
+        "ext": ".md",
+        "size": 1784
+      },
+      {
+        "path": ".claude/commands/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/README.md",
+        "ext": ".md",
+        "size": 1845
+      },
+      {
+        "path": ".claude/commands/writers-room.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/writers-room.md",
+        "ext": ".md",
+        "size": 1772
+      },
+      {
+        "path": ".claude/commands/end-session.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/end-session.md",
+        "ext": ".md",
+        "size": 1865
+      },
+      {
+        "path": ".claude/commands/pacing-check.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/pacing-check.md",
+        "ext": ".md",
+        "size": 1572
+      },
+      {
+        "path": ".claude/commands/world.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/world.md",
+        "ext": ".md",
+        "size": 1617
+      },
+      {
+        "path": ".claude/commands/ideate.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/ideate.md",
+        "ext": ".md",
+        "size": 1901
+      },
+      {
+        "path": ".claude/commands/beat-check.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/beat-check.md",
+        "ext": ".md",
+        "size": 1310
+      },
+      {
+        "path": ".claude/commands/premise.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/premise.md",
+        "ext": ".md",
+        "size": 1310
+      },
+      {
+        "path": ".claude/commands/continuity-check.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/commands/continuity-check.md",
+        "ext": ".md",
+        "size": 1487
+      },
+      {
+        "path": ".claude/skills/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/README.md",
+        "ext": ".md",
+        "size": 2056
+      },
+      {
+        "path": ".claude/skills/line-editing/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/line-editing/SKILL.md",
+        "ext": ".md",
+        "size": 7779
+      },
+      {
+        "path": ".claude/skills/pacing-analysis/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/pacing-analysis/SKILL.md",
+        "ext": ".md",
+        "size": 7523
+      },
+      {
+        "path": ".claude/skills/character-craft/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/character-craft/SKILL.md",
+        "ext": ".md",
+        "size": 8949
+      },
+      {
+        "path": ".claude/skills/dialogue-craft/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/dialogue-craft/SKILL.md",
+        "ext": ".md",
+        "size": 7182
+      },
+      {
+        "path": ".claude/skills/world-building/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/world-building/SKILL.md",
+        "ext": ".md",
+        "size": 9597
+      },
+      {
+        "path": ".claude/skills/developmental-editing/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/developmental-editing/SKILL.md",
+        "ext": ".md",
+        "size": 7048
+      },
+      {
+        "path": ".claude/skills/scene-craft/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/scene-craft/SKILL.md",
+        "ext": ".md",
+        "size": 7796
+      },
+      {
+        "path": ".claude/skills/continuity-tracking/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/continuity-tracking/SKILL.md",
+        "ext": ".md",
+        "size": 6740
+      },
+      {
+        "path": ".claude/skills/story-structure/SKILL.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/.claude/skills/story-structure/SKILL.md",
+        "ext": ".md",
+        "size": 11188
+      },
+      {
+        "path": "world/template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/world/template.md",
+        "ext": ".md",
+        "size": 1995
+      },
+      {
+        "path": "notes/research.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/notes/research.md",
+        "ext": ".md",
+        "size": 965
+      },
+      {
+        "path": "characters/template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/novel-template/characters/template.md",
+        "ext": ".md",
+        "size": 3026
+      }
+    ]
+  },
+  "poison01022-ai-book-pipeline": {
+    "repo": "poison01022-ai-book-pipeline",
+    "total_matching_files": 14,
+    "files": [
+      {
+        "path": "requirements.txt",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/requirements.txt",
+        "ext": ".txt",
+        "size": 20
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/README.md",
+        "ext": ".md",
+        "size": 3294
+      },
+      {
+        "path": "main.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/main.py",
+        "ext": ".py",
+        "size": 800
+      },
+      {
+        "path": "rl_search/rl_search.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/rl_search/rl_search.py",
+        "ext": ".py",
+        "size": 194
+      },
+      {
+        "path": "agents/ai_writer.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/agents/ai_writer.py",
+        "ext": ".py",
+        "size": 152
+      },
+      {
+        "path": "agents/ai_reviewer.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/agents/ai_reviewer.py",
+        "ext": ".py",
+        "size": 134
+      },
+      {
+        "path": "agents/human_editor.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/agents/human_editor.py",
+        "ext": ".py",
+        "size": 245
+      },
+      {
+        "path": "agents/__pycache__/ai_reviewer.cpython-39.pyc",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/agents/__pycache__/ai_reviewer.cpython-39.pyc",
+        "ext": ".pyc",
+        "size": 308
+      },
+      {
+        "path": "agents/__pycache__/ai_writer.cpython-39.pyc",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/agents/__pycache__/ai_writer.cpython-39.pyc",
+        "ext": ".pyc",
+        "size": 325
+      },
+      {
+        "path": "agents/__pycache__/human_editor.cpython-39.pyc",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/agents/__pycache__/human_editor.cpython-39.pyc",
+        "ext": ".pyc",
+        "size": 437
+      },
+      {
+        "path": "utils/versioning.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/utils/versioning.py",
+        "ext": ".py",
+        "size": 552
+      },
+      {
+        "path": "utils/scraping.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/utils/scraping.py",
+        "ext": ".py",
+        "size": 574
+      },
+      {
+        "path": "storage/versions/chapter1_v1.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/storage/versions/chapter1_v1.json",
+        "ext": ".json",
+        "size": 283
+      },
+      {
+        "path": "data/screenshots/chapter1.png",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/poison01022-ai-book-pipeline/data/screenshots/chapter1.png",
+        "ext": ".png",
+        "size": 403681
+      }
+    ]
+  },
+  "prompts.chat": {
+    "repo": "prompts.chat",
+    "total_matching_files": 0,
+    "files": []
+  },
+  "speckit-preset-fiction-book-writing": {
+    "repo": "speckit-preset-fiction-book-writing",
+    "total_matching_files": 78,
+    "files": [
+      {
+        "path": "catalog.community.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/catalog.community.json",
+        "ext": ".json",
+        "size": 1731
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/README.md",
+        "ext": ".md",
+        "size": 2000
+      },
+      {
+        "path": "fiction-book-writing/CHANGELOG.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/CHANGELOG.md",
+        "ext": ".md",
+        "size": 26982
+      },
+      {
+        "path": "fiction-book-writing/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/README.md",
+        "ext": ".md",
+        "size": 79595
+      },
+      {
+        "path": "fiction-book-writing/preset.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/preset.yml",
+        "ext": ".yml",
+        "size": 22865
+      },
+      {
+        "path": "fiction-book-writing/scripts/python/index.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/python/index.py",
+        "ext": ".py",
+        "size": 30445
+      },
+      {
+        "path": "fiction-book-writing/scripts/python/export.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/python/export.py",
+        "ext": ".py",
+        "size": 47960
+      },
+      {
+        "path": "fiction-book-writing/scripts/python/create_docx_templates.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/python/create_docx_templates.py",
+        "ext": ".py",
+        "size": 5806
+      },
+      {
+        "path": "fiction-book-writing/scripts/python/test_index.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/python/test_index.py",
+        "ext": ".py",
+        "size": 17756
+      },
+      {
+        "path": "fiction-book-writing/scripts/python/test_export.py",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/python/test_export.py",
+        "ext": ".py",
+        "size": 27689
+      },
+      {
+        "path": "fiction-book-writing/scripts/bash/setup-plan.sh",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/bash/setup-plan.sh",
+        "ext": ".sh",
+        "size": 553
+      },
+      {
+        "path": "fiction-book-writing/scripts/bash/update-agent-context.sh",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/bash/update-agent-context.sh",
+        "ext": ".sh",
+        "size": 309
+      },
+      {
+        "path": "fiction-book-writing/scripts/powershell/update-agent-context.ps1",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/powershell/update-agent-context.ps1",
+        "ext": ".ps1",
+        "size": 436
+      },
+      {
+        "path": "fiction-book-writing/scripts/templates/epub-kdp.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/templates/epub-kdp.yml",
+        "ext": ".yml",
+        "size": 1112
+      },
+      {
+        "path": "fiction-book-writing/scripts/templates/epub-d2d.css",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/templates/epub-d2d.css",
+        "ext": ".css",
+        "size": 706
+      },
+      {
+        "path": "fiction-book-writing/scripts/templates/epub.css",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/templates/epub.css",
+        "ext": ".css",
+        "size": 3588
+      },
+      {
+        "path": "fiction-book-writing/scripts/templates/epub-d2d.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/templates/epub-d2d.yml",
+        "ext": ".yml",
+        "size": 1034
+      },
+      {
+        "path": "fiction-book-writing/scripts/templates/epub-ingramspark.yml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/scripts/templates/epub-ingramspark.yml",
+        "ext": ".yml",
+        "size": 1537
+      },
+      {
+        "path": "fiction-book-writing/templates/craft-rules-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/craft-rules-template.md",
+        "ext": ".md",
+        "size": 11875
+      },
+      {
+        "path": "fiction-book-writing/templates/characters-index-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/characters-index-template.md",
+        "ext": ".md",
+        "size": 1828
+      },
+      {
+        "path": "fiction-book-writing/templates/agent-file-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/agent-file-template.md",
+        "ext": ".md",
+        "size": 2040
+      },
+      {
+        "path": "fiction-book-writing/templates/scene-outline-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/scene-outline-template.md",
+        "ext": ".md",
+        "size": 4406
+      },
+      {
+        "path": "fiction-book-writing/templates/subplots-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/subplots-template.md",
+        "ext": ".md",
+        "size": 5341
+      },
+      {
+        "path": "fiction-book-writing/templates/constitution-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/constitution-template.md",
+        "ext": ".md",
+        "size": 26908
+      },
+      {
+        "path": "fiction-book-writing/templates/pov-structure-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/pov-structure-template.md",
+        "ext": ".md",
+        "size": 16191
+      },
+      {
+        "path": "fiction-book-writing/templates/world-building-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/world-building-template.md",
+        "ext": ".md",
+        "size": 2563
+      },
+      {
+        "path": "fiction-book-writing/templates/themes-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/themes-template.md",
+        "ext": ".md",
+        "size": 4467
+      },
+      {
+        "path": "fiction-book-writing/templates/characters-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/characters-template.md",
+        "ext": ".md",
+        "size": 11906
+      },
+      {
+        "path": "fiction-book-writing/templates/relationships-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/relationships-template.md",
+        "ext": ".md",
+        "size": 8439
+      },
+      {
+        "path": "fiction-book-writing/templates/synopsis-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/synopsis-template.md",
+        "ext": ".md",
+        "size": 3991
+      },
+      {
+        "path": "fiction-book-writing/templates/checklist-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/checklist-template.md",
+        "ext": ".md",
+        "size": 3244
+      },
+      {
+        "path": "fiction-book-writing/templates/series-bible-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/series-bible-template.md",
+        "ext": ".md",
+        "size": 9915
+      },
+      {
+        "path": "fiction-book-writing/templates/tasks-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/tasks-template.md",
+        "ext": ".md",
+        "size": 12946
+      },
+      {
+        "path": "fiction-book-writing/templates/spec-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/spec-template.md",
+        "ext": ".md",
+        "size": 11562
+      },
+      {
+        "path": "fiction-book-writing/templates/research-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/research-template.md",
+        "ext": ".md",
+        "size": 1522
+      },
+      {
+        "path": "fiction-book-writing/templates/illustration-brief-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/illustration-brief-template.md",
+        "ext": ".md",
+        "size": 2748
+      },
+      {
+        "path": "fiction-book-writing/templates/audiobook-draft-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/audiobook-draft-template.md",
+        "ext": ".md",
+        "size": 5055
+      },
+      {
+        "path": "fiction-book-writing/templates/glossary-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/glossary-template.md",
+        "ext": ".md",
+        "size": 4835
+      },
+      {
+        "path": "fiction-book-writing/templates/cover-brief-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/cover-brief-template.md",
+        "ext": ".md",
+        "size": 5785
+      },
+      {
+        "path": "fiction-book-writing/templates/locations-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/locations-template.md",
+        "ext": ".md",
+        "size": 5848
+      },
+      {
+        "path": "fiction-book-writing/templates/timeline-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/timeline-template.md",
+        "ext": ".md",
+        "size": 2630
+      },
+      {
+        "path": "fiction-book-writing/templates/feedback-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/feedback-template.md",
+        "ext": ".md",
+        "size": 2823
+      },
+      {
+        "path": "fiction-book-writing/templates/query-letter-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/query-letter-template.md",
+        "ext": ".md",
+        "size": 4062
+      },
+      {
+        "path": "fiction-book-writing/templates/plan-template.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/templates/plan-template.md",
+        "ext": ".md",
+        "size": 28641
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.polish.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.polish.md",
+        "ext": ".md",
+        "size": 17332
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.pov.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.pov.md",
+        "ext": ".md",
+        "size": 15780
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.continuity.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.continuity.md",
+        "ext": ".md",
+        "size": 17126
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.status.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.status.md",
+        "ext": ".md",
+        "size": 7128
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.checklist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.checklist.md",
+        "ext": ".md",
+        "size": 6991
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.statistics.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.statistics.md",
+        "ext": ".md",
+        "size": 11567
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.audiobook.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.audiobook.md",
+        "ext": ".md",
+        "size": 29120
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.plan.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.plan.md",
+        "ext": ".md",
+        "size": 16505
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.interview.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.interview.md",
+        "ext": ".md",
+        "size": 17030
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.pacing.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.pacing.md",
+        "ext": ".md",
+        "size": 11241
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.outline.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.outline.md",
+        "ext": ".md",
+        "size": 11856
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.analyze.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.analyze.md",
+        "ext": ".md",
+        "size": 9725
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.versions.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.versions.md",
+        "ext": ".md",
+        "size": 12832
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.glossary.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.glossary.md",
+        "ext": ".md",
+        "size": 16989
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.constitution.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.constitution.md",
+        "ext": ".md",
+        "size": 26613
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.sensitivity.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.sensitivity.md",
+        "ext": ".md",
+        "size": 13791
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.illustrate.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.illustrate.md",
+        "ext": ".md",
+        "size": 15390
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.bio.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.bio.md",
+        "ext": ".md",
+        "size": 10452
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.clarify.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.clarify.md",
+        "ext": ".md",
+        "size": 6155
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.series.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.series.md",
+        "ext": ".md",
+        "size": 41372
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.brainstorm.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.brainstorm.md",
+        "ext": ".md",
+        "size": 27818
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.export.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.export.md",
+        "ext": ".md",
+        "size": 16055
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.research.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.research.md",
+        "ext": ".md",
+        "size": 14469
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.implement.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.implement.md",
+        "ext": ".md",
+        "size": 27774
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.cover.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.cover.md",
+        "ext": ".md",
+        "size": 26050
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.synopsis.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.synopsis.md",
+        "ext": ".md",
+        "size": 7199
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.feedback.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.feedback.md",
+        "ext": ".md",
+        "size": 6698
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.specify.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.specify.md",
+        "ext": ".md",
+        "size": 6151
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.revise.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.revise.md",
+        "ext": ".md",
+        "size": 14982
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.help.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.help.md",
+        "ext": ".md",
+        "size": 15773
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.query.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.query.md",
+        "ext": ".md",
+        "size": 8271
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.roleplay.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.roleplay.md",
+        "ext": ".md",
+        "size": 39585
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.tasks.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.tasks.md",
+        "ext": ".md",
+        "size": 11521
+      },
+      {
+        "path": "fiction-book-writing/commands/speckit.subplot.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/speckit-preset-fiction-book-writing/fiction-book-writing/commands/speckit.subplot.md",
+        "ext": ".md",
+        "size": 11675
+      }
+    ]
+  },
+  "writing-template-for-ai": {
+    "repo": "writing-template-for-ai",
+    "total_matching_files": 59,
+    "files": [
+      {
+        "path": "START_HERE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/START_HERE.md",
+        "ext": ".md",
+        "size": 4844
+      },
+      {
+        "path": "book_project_data.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/book_project_data.md",
+        "ext": ".md",
+        "size": 2632
+      },
+      {
+        "path": "book_generator_prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/book_generator_prompt.md",
+        "ext": ".md",
+        "size": 7118
+      },
+      {
+        "path": "README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/README.md",
+        "ext": ".md",
+        "size": 12138
+      },
+      {
+        "path": "MEMORY.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/MEMORY.md",
+        "ext": ".md",
+        "size": 2218
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/CONTRIBUTING.md",
+        "ext": ".md",
+        "size": 1465
+      },
+      {
+        "path": "GEMINI.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/GEMINI.md",
+        "ext": ".md",
+        "size": 289
+      },
+      {
+        "path": "BOOK_BLUEPRINT.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/BOOK_BLUEPRINT.md",
+        "ext": ".md",
+        "size": 1800
+      },
+      {
+        "path": "CHANGELOG_AI.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/CHANGELOG_AI.md",
+        "ext": ".md",
+        "size": 2905
+      },
+      {
+        "path": "AGENTS.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/AGENTS.md",
+        "ext": ".md",
+        "size": 8505
+      },
+      {
+        "path": "CLAUDE.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/CLAUDE.md",
+        "ext": ".md",
+        "size": 280
+      },
+      {
+        "path": "manuscript/metadata.yaml",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/metadata.yaml",
+        "ext": ".yaml",
+        "size": 978
+      },
+      {
+        "path": "manuscript/manifest.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/manifest.md",
+        "ext": ".md",
+        "size": 987
+      },
+      {
+        "path": "manuscript/back/01-acknowledgments.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/back/01-acknowledgments.md",
+        "ext": ".md",
+        "size": 43
+      },
+      {
+        "path": "manuscript/back/02-author-note.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/back/02-author-note.md",
+        "ext": ".md",
+        "size": 147
+      },
+      {
+        "path": "manuscript/chapters/part-1.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/chapters/part-1.md",
+        "ext": ".md",
+        "size": 656
+      },
+      {
+        "path": "manuscript/chapters/ch01.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/chapters/ch01.md",
+        "ext": ".md",
+        "size": 261
+      },
+      {
+        "path": "manuscript/front/01-title.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/front/01-title.md",
+        "ext": ".md",
+        "size": 58
+      },
+      {
+        "path": "manuscript/front/02-copyright.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/front/02-copyright.md",
+        "ext": ".md",
+        "size": 797
+      },
+      {
+        "path": "manuscript/front/03-dedication.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/front/03-dedication.md",
+        "ext": ".md",
+        "size": 15
+      },
+      {
+        "path": "manuscript/front/04-epigraph.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/manuscript/front/04-epigraph.md",
+        "ext": ".md",
+        "size": 33
+      },
+      {
+        "path": ".claude/agents/academic-psychologist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/academic-psychologist.md",
+        "ext": ".md",
+        "size": 845
+      },
+      {
+        "path": ".claude/agents/marketing-book-co-author.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/marketing-book-co-author.md",
+        "ext": ".md",
+        "size": 845
+      },
+      {
+        "path": ".claude/agents/academic-narratologist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/academic-narratologist.md",
+        "ext": ".md",
+        "size": 840
+      },
+      {
+        "path": ".claude/agents/writing-yorke-dramaturg.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/writing-yorke-dramaturg.md",
+        "ext": ".md",
+        "size": 945
+      },
+      {
+        "path": ".claude/agents/marketing-narrative-consistency-auditor.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/marketing-narrative-consistency-auditor.md",
+        "ext": ".md",
+        "size": 951
+      },
+      {
+        "path": ".claude/agents/writing-character-hierarchy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/writing-character-hierarchy.md",
+        "ext": ".md",
+        "size": 897
+      },
+      {
+        "path": ".claude/agents/writing-semantic-gradient.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/writing-semantic-gradient.md",
+        "ext": ".md",
+        "size": 950
+      },
+      {
+        "path": ".claude/agents/writing-prose-suppression.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/writing-prose-suppression.md",
+        "ext": ".md",
+        "size": 912
+      },
+      {
+        "path": ".claude/agents/writing-fractal-scene-architect.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.claude/agents/writing-fractal-scene-architect.md",
+        "ext": ".md",
+        "size": 855
+      },
+      {
+        "path": "docs/genre-routing.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/docs/genre-routing.md",
+        "ext": ".md",
+        "size": 7120
+      },
+      {
+        "path": "docs/protocols/ai-ism-suppression-protocol-generic.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/docs/protocols/ai-ism-suppression-protocol-generic.json",
+        "ext": ".json",
+        "size": 36397
+      },
+      {
+        "path": "docs/protocols/fractal_scene_architecture_protocol.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/docs/protocols/fractal_scene_architecture_protocol.json",
+        "ext": ".json",
+        "size": 45363
+      },
+      {
+        "path": "docs/protocols/yorke_dramatic_architecture_analyser.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/docs/protocols/yorke_dramatic_architecture_analyser.json",
+        "ext": ".json",
+        "size": 42416
+      },
+      {
+        "path": "docs/protocols/character_hierarchy_protocol.json",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/docs/protocols/character_hierarchy_protocol.json",
+        "ext": ".json",
+        "size": 30475
+      },
+      {
+        "path": "docs/protocols/semantic_gradient.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/docs/protocols/semantic_gradient.md",
+        "ext": ".md",
+        "size": 15133
+      },
+      {
+        "path": "examples/sample-chapter.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/examples/sample-chapter.md",
+        "ext": ".md",
+        "size": 2414
+      },
+      {
+        "path": "examples/SAMPLE_BLUEPRINT.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/examples/SAMPLE_BLUEPRINT.md",
+        "ext": ".md",
+        "size": 4511
+      },
+      {
+        "path": "examples/README.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/examples/README.md",
+        "ext": ".md",
+        "size": 839
+      },
+      {
+        "path": "review/Full-Cold-Review-Prompt.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/review/Full-Cold-Review-Prompt.md",
+        "ext": ".md",
+        "size": 5789
+      },
+      {
+        "path": "scripts/build.sh",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/scripts/build.sh",
+        "ext": ".sh",
+        "size": 4153
+      },
+      {
+        "path": ".ai/agents/academic-psychologist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/academic-psychologist.md",
+        "ext": ".md",
+        "size": 4813
+      },
+      {
+        "path": ".ai/agents/marketing-book-co-author.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/marketing-book-co-author.md",
+        "ext": ".md",
+        "size": 4216
+      },
+      {
+        "path": ".ai/agents/academic-narratologist.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/academic-narratologist.md",
+        "ext": ".md",
+        "size": 5084
+      },
+      {
+        "path": ".ai/agents/writing-yorke-dramaturg.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/writing-yorke-dramaturg.md",
+        "ext": ".md",
+        "size": 2911
+      },
+      {
+        "path": ".ai/agents/marketing-narrative-consistency-auditor.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/marketing-narrative-consistency-auditor.md",
+        "ext": ".md",
+        "size": 5294
+      },
+      {
+        "path": ".ai/agents/writing-character-hierarchy.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/writing-character-hierarchy.md",
+        "ext": ".md",
+        "size": 3109
+      },
+      {
+        "path": ".ai/agents/writing-semantic-gradient.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/writing-semantic-gradient.md",
+        "ext": ".md",
+        "size": 2738
+      },
+      {
+        "path": ".ai/agents/writing-prose-suppression.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/writing-prose-suppression.md",
+        "ext": ".md",
+        "size": 2816
+      },
+      {
+        "path": ".ai/agents/writing-fractal-scene-architect.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/agents/writing-fractal-scene-architect.md",
+        "ext": ".md",
+        "size": 3372
+      },
+      {
+        "path": ".ai/rules/publication-boundary.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/publication-boundary.md",
+        "ext": ".md",
+        "size": 2712
+      },
+      {
+        "path": ".ai/rules/editorial-content-guidance.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/editorial-content-guidance.md",
+        "ext": ".md",
+        "size": 5873
+      },
+      {
+        "path": ".ai/rules/book-length-and-pacing.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/book-length-and-pacing.md",
+        "ext": ".md",
+        "size": 946
+      },
+      {
+        "path": ".ai/rules/prose-quality-protocols.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/prose-quality-protocols.md",
+        "ext": ".md",
+        "size": 3397
+      },
+      {
+        "path": ".ai/rules/editorial-pass.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/editorial-pass.md",
+        "ext": ".md",
+        "size": 3418
+      },
+      {
+        "path": ".ai/rules/canon-mutation-control.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/canon-mutation-control.md",
+        "ext": ".md",
+        "size": 9436
+      },
+      {
+        "path": ".ai/rules/manuscript-file-structure.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/manuscript-file-structure.md",
+        "ext": ".md",
+        "size": 2221
+      },
+      {
+        "path": ".ai/rules/ai-handoff.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/ai-handoff.md",
+        "ext": ".md",
+        "size": 1502
+      },
+      {
+        "path": ".ai/rules/agent-team-selection.md",
+        "full_path": "/Users/tupham/Personal/.personal/Ernest/research/ebook-writing/book-writing-research/repos/writing-template-for-ai/.ai/rules/agent-team-selection.md",
+        "ext": ".md",
+        "size": 1855
+      }
+    ]
+  }
+}

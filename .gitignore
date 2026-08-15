@@ -1,0 +1,12 @@
+# Cloned external repos (knowledge is preserved in summaries/ and knowledge/)
+book-writing-research/repos/
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+build/
+dist/
+*.egg-info/
