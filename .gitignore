@@ -1,7 +1,16 @@
 # Cloned external repos (knowledge is preserved in summaries/ and knowledge/)
 book-writing-research/repos/
 
-# Python cache & artifacts
+# Project Local Workflow & Ephemeral Artifacts (Rule 3)
+SPEC.md
+LEARNING.md
+/impls
+/reqs
+/docs
+/diary
+/learning
+
+# Python cache & build artifacts
 __pycache__/
 *.pyc
 *.pyo
